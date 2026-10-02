@@ -1,0 +1,14 @@
+# Data preprocessing, EDA, and modeling
+numpy
+pandas
+scipy
+h5py
+mat73
+matplotlib
+scikit-learn
+optuna
+ipython
+
+# Local Jupyter notebooks
+ipykernel
+jupyterlab
